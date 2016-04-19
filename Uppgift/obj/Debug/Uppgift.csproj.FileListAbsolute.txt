@@ -1,0 +1,12 @@
+c:\users\coder\documents\visual studio 2015\Projects\Uppgift\Uppgift\bin\Debug\Uppgift.exe.config
+c:\users\coder\documents\visual studio 2015\Projects\Uppgift\Uppgift\obj\Debug\Uppgift.csprojResolveAssemblyReference.cache
+c:\users\coder\documents\visual studio 2015\Projects\Uppgift\Uppgift\bin\Debug\Uppgift.exe
+c:\users\coder\documents\visual studio 2015\Projects\Uppgift\Uppgift\bin\Debug\Uppgift.pdb
+c:\users\coder\documents\visual studio 2015\Projects\Uppgift\Uppgift\obj\Debug\Uppgift.exe
+c:\users\coder\documents\visual studio 2015\Projects\Uppgift\Uppgift\obj\Debug\Uppgift.pdb
+C:\Users\Thines\Documents\Visual Studio 2015\Projects\Uppgift\Uppgift\Uppgift\bin\Debug\Uppgift.exe.config
+C:\Users\Thines\Documents\Visual Studio 2015\Projects\Uppgift\Uppgift\Uppgift\obj\Debug\Uppgift.exe
+C:\Users\Thines\Documents\Visual Studio 2015\Projects\Uppgift\Uppgift\Uppgift\obj\Debug\Uppgift.pdb
+C:\Users\Thines\Source\Repos\Labb1\Uppgift\bin\Debug\Uppgift.exe.config
+C:\Users\Thines\Source\Repos\Labb1\Uppgift\obj\Debug\Uppgift.exe
+C:\Users\Thines\Source\Repos\Labb1\Uppgift\obj\Debug\Uppgift.pdb

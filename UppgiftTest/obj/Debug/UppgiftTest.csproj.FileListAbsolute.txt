@@ -1,0 +1,8 @@
+c:\Users\CODER\documents\visual studio 2015\Projects\Uppgift\UppgiftTest\obj\Debug\UppgiftTest.csprojResolveAssemblyReference.cache
+c:\Users\CODER\documents\visual studio 2015\Projects\Uppgift\UppgiftTest\bin\Debug\UppgiftTest.dll
+c:\Users\CODER\documents\visual studio 2015\Projects\Uppgift\UppgiftTest\bin\Debug\UppgiftTest.pdb
+c:\Users\CODER\documents\visual studio 2015\Projects\Uppgift\UppgiftTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\CODER\documents\visual studio 2015\Projects\Uppgift\UppgiftTest\bin\Debug\Uppgift.exe
+c:\Users\CODER\documents\visual studio 2015\Projects\Uppgift\UppgiftTest\bin\Debug\Uppgift.pdb
+c:\Users\CODER\documents\visual studio 2015\Projects\Uppgift\UppgiftTest\obj\Debug\UppgiftTest.dll
+c:\Users\CODER\documents\visual studio 2015\Projects\Uppgift\UppgiftTest\obj\Debug\UppgiftTest.pdb
